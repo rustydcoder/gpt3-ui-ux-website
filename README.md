@@ -7,3 +7,8 @@ This project was my ReactJS crash course from Javascript Mastery [Build and Depl
 _PS_: The dependencies are located in [package.json](https://github.com/rustydcoder/gpt3-ui-ux-website/blob/main/package.json)
 
 1 [react-icons](https://react-icons.github.io/react-icons)
+
+## Tools
+
+- [Gradient](https://angrytools.com/gradient/)
+- [Animation](https://animista.net/)
